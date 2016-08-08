@@ -2,6 +2,6 @@ Hello #TeamJohnny5!
 
 This is what I want to see on GitHub - I fixed it.
 
-This a change I made on GitHub - NEED HELP
+This a change I made on GitHub - I know how to make commits now.
 
 Hello from the cloned project - NEED HELP
